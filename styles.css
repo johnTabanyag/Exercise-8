@@ -1,0 +1,11 @@
+p{
+  text-transform: uppercase;
+  font-size: 40px;
+  font-family: monospace;
+  text-align: center;
+  font-weight: 100;
+  letter-spacing: 20px;
+  text-decoration: wavy;
+  text-decoration-line: underline;
+  text-decoration-color: plum;
+}
